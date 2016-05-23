@@ -1,2 +1,4 @@
 # Hello-wolrd
-First Repository
+Hello everyone!
+
+This is the first introction to our computer vision laboratory NJUST-UAV.
